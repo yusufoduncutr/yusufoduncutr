@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yusuf Oduncu</h1>
 <h3 align="center">A developer living in Turkey</h3>
 
-- I am interested in pyqt5. [PYQT5 Hava Durumu](https://github.com/yusufoduncutr/Pyqt5)
+- I am interested in pyqt5. C# Auto Mail Sending (https://github.com/yusufoduncutr/otomatiik_mail)
 
 - I am participating in the blockchain and csharp course. **@BlockhainHSC**
 
